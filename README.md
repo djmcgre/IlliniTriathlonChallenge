@@ -5,7 +5,7 @@ working directory. This script will read the workbook and rank all
 athletes based on remaining estimated workout time.
 
 Total goal distances
-2.4 mi swim (reported as 4200 yrd)
+2.4 mi swim (reported as 4200 yd)
 112 mi bike
 26.2 mi run
 
