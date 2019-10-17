@@ -1,6 +1,8 @@
 # Illini Triathlon Challenge
 
-Read xlsx workbook and rank all athletes based on completion
+Download the IlliniTriathlonChallenge.xlsx workbook and save in the
+working directory. This script will read the workbook and rank all 
+athletes based on remaining estimated workout time.
 
 Total goal distances
 2.4 mi swim (reported as 4200 yrd)
