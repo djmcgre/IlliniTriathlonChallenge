@@ -11,3 +11,6 @@ Total goal distances
 
 Ranking is based on estimated time variables for each sport.
 Roughly equates to an 11.5 hr Ironman.
+
+***
+Requires xlrd v1.2.0
